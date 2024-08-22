@@ -68,6 +68,10 @@ input:focus {
   border-radius: 5px;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 /*
 "importCSSModule": {
     "prefix": "csm",
