@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Addis Ababa",
+      "country": "Ethiopia",
+      "emoji": "🇪🇹",
+      "date": "2024-08-24T09:08:40.240Z",
+      "notes": "Amazing",
+      "position": {
+        "lat": "9.018014975431448",
+        "lng": "38.85040283203125"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Hainan Zangzu Zizhizhou",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-08-24T09:13:39.582Z",
+      "notes": "Gorgeous",
+      "position": {
+        "lat": "35.60371874069731",
+        "lng": "100.72265625000001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Porto Murtinho",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2024-08-24T09:17:26.553Z",
+      "notes": "Spectacular",
+      "position": {
+        "lat": "-21.94304553343818",
+        "lng": "-57.65625000000001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Davenport",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-08-24T09:24:05.259Z",
+      "notes": "Just wonderful",
+      "position": {
+        "lat": "-21.289374355860424",
+        "lng": "135.17578125000003"
+      },
+      "id": 98443201
     }
   ]
 }
