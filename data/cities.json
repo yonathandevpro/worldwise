@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
       "cityName": "Addis Ababa",
       "country": "Ethiopia",
       "emoji": "🇪🇹",
@@ -35,6 +23,42 @@
         "lng": "38.85040283203125"
       },
       "id": 98443198
+    },
+    {
+      "cityName": "l'Alcora",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-24T09:51:13.299Z",
+      "notes": "",
+      "position": {
+        "lat": "40.063358664163296",
+        "lng": "-0.21697998046875003"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Groß Pankow",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-08-24T10:59:42.599Z",
+      "notes": "",
+      "position": {
+        "lat": "53.171472871976334",
+        "lng": "11.953125000000002"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Villahermosa del Rio",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-24T11:16:07.164Z",
+      "notes": "",
+      "position": {
+        "lat": "40.199854889057676",
+        "lng": "-0.46966552734375006"
+      },
+      "id": 98443202
     }
   ]
 }
