@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -47,42 +35,6 @@
         "lng": "38.85040283203125"
       },
       "id": 98443198
-    },
-    {
-      "cityName": "Hainan Zangzu Zizhizhou",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2024-08-24T09:13:39.582Z",
-      "notes": "Gorgeous",
-      "position": {
-        "lat": "35.60371874069731",
-        "lng": "100.72265625000001"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Porto Murtinho",
-      "country": "Brazil",
-      "emoji": "🇧🇷",
-      "date": "2024-08-24T09:17:26.553Z",
-      "notes": "Spectacular",
-      "position": {
-        "lat": "-21.94304553343818",
-        "lng": "-57.65625000000001"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Davenport",
-      "country": "Australia",
-      "emoji": "🇦🇺",
-      "date": "2024-08-24T09:24:05.259Z",
-      "notes": "Just wonderful",
-      "position": {
-        "lat": "-21.289374355860424",
-        "lng": "135.17578125000003"
-      },
-      "id": 98443201
     }
   ]
 }
